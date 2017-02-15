@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/cloudfoundry/buildpack-packager
-  revision: 63c7297eec83cbea95f751c995292586d87342d6
-  tag: v2.3.5
+  revision: b07f676d7a6cf6cf5822692b3269e13358c2853e
+  branch: windows-support
   specs:
     buildpack-packager (2.3.5)
       activesupport (~> 4.1)
@@ -33,7 +33,7 @@ GEM
     ffi (1.9.17)
     httparty (0.14.0)
       multi_xml (>= 0.5.2)
-    i18n (0.7.0)
+    i18n (0.8.0)
     json (1.8.6)
     kwalify (0.7.2)
     minitest (5.10.1)
