@@ -75,6 +75,8 @@ shopt -u dotglob
 
 echo "Hello World"
 
+apt-get install cf-cli
+
 # apt-get install cf-cli
 
 
