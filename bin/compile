@@ -70,6 +70,12 @@ fi
 shopt -u extglob
 shopt -u dotglob
 
+# My additions: assumes that variables TESTUSER and TESTORG have been set 
+# to point to valid CF USER and valid ORG
+
+echo "Hello World"
+
+# apt-get install cf-cli
 
 
 status "Setting up nginx"
